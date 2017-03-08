@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\animation-test\Assets\zombie town\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js">
+    <Files>
+      <File FileName="..\Steel Wars\Assets\_Script\EnemyDestory.cs" Line="35" Column="1" />
+      <File FileName="..\animation-test\Assets\zombie town\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
